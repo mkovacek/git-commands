@@ -1,4 +1,4 @@
-# Git Commands
+# Useful Git Commands
 
 ## Table of contents
 
